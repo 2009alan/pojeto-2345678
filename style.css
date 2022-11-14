@@ -1,0 +1,29 @@
+body{
+    font-family: 'Akaya Telivigala', cursive    ;
+    background: blue;
+ }
+ .header_div { 
+    background: blueviolet;
+
+ }
+ .header_div p { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ line-height: 2px;  
+ font-size: 12px;
+ font-weight: 800; 
+ }
+ .main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 89px;
+    width: 300px;
+    font-weight: 900;
+    letter-spacing: 3px;
+
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: brown;
+    bottom: 0ch;
+    width: 100%    ;
+   }
+
